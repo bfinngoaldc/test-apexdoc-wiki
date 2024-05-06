@@ -1,2 +1,2 @@
 # ApexDoc
-[VA Teams repo Wiki] (wiki)
+[📖 ApexDocs](wiki/index.md)
