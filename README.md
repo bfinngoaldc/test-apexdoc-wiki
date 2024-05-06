@@ -1,2 +1,2 @@
 # ApexDoc
-[📖 ApexDocs](../wiki)
+[📖 ApexDocs](../../wiki)
